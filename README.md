@@ -9,3 +9,7 @@ this are the current features added:
 5. Dots pattern.
 6. brick pattern
 ![image](https://user-images.githubusercontent.com/81419980/178408684-ae92ea09-9090-4a08-b880-cf02b02ddc06.png)
+
+
+
+PS This is made with amplify shader editor
